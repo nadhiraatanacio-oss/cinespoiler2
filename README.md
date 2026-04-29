@@ -1,12 +1,10 @@
-##Proyecto cineSpoiler
+## Proyecto cineSpoiler
 
 ## Creacion del proyecto
-![primera captura](proyecto.png)
+![primera captura](docs/proyecto.png)
 
 ## Vista de admin
-![2da captura](admin.png)
+![2da captura](docs/admin.png)
 
 ## Vista movie
-![3ra capura](movies.png)
-
-## 
+![3ra captura](docs/movies.png)
